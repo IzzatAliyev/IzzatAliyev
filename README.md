@@ -2,7 +2,7 @@
 =============================
 
 Software Engineer
------------------
+------------------
 
 [![Buy Me A Coffee](https://img.shields.io/static/v1?label=Buy%20Me%20A%20Coffee&message=$1&logo=buymeacoffee&logoColor=white&color=ffdd00&style=for-the-badge)](https://www.buymeacoffee.com/izzundali)
 
